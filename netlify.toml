@@ -1,0 +1,21 @@
+[build]
+  publish = "public"
+  functions = "netlify/functions"
+
+[functions]
+  node_bundler = "esbuild"
+
+[functions."update-trends"]
+  schedule = "@monthly"
+
+[[headers]]
+  for = "/.netlify/functions/trends-data"
+  [headers.values]
+    Access-Control-Allow-Origin = "*"
+    Access-Control-Allow-Methods = "GET, OPTIONS"
+    Cache-Control = "public, max-age=3600"
+
+[[redirects]]
+  from = "/api/trends"
+  to = "/.netlify/functions/trends-data"
+  status = 200
