@@ -1,5 +1,3 @@
-import { getStore } from "@netlify/blobs";
-
 const SOURCES = [
   { name: "Education Week", url: "https://www.edweek.org/" },
   { name: "Edutopia", url: "https://www.edutopia.org/" },
@@ -115,8 +113,6 @@ RULES:
 Respond with ONLY valid JSON. No markdown fences, no preamble.
 Format: [{"f":"id","t":"Headline","r":["Region"],"s":["Type"],"src":"Source","d":"Description."}]`;
 
-  console.log("  Calling Claude API via fetch...");
-
   const res = await fetch("https://api.anthropic.com/v1/messages", {
     method: "POST",
     headers: {
@@ -161,6 +157,50 @@ function validate(signals) {
   });
 }
 
+async function writeToGitHub(jsonString) {
+  const token = process.env.GITHUB_TOKEN;
+  if (!token) throw new Error("GITHUB_TOKEN not set");
+
+  const owner = "christiantalbot";
+  const repo = "forces-at-play";
+  const path = "public/trends-data.json";
+  const apiUrl = `https://api.github.com/repos/${owner}/${repo}/contents/${path}`;
+
+  let sha = null;
+  try {
+    const existing = await fetch(apiUrl, {
+      headers: { Authorization: `token ${token}`, "User-Agent": "ForcesAtPlay/1.0" },
+    });
+    if (existing.ok) {
+      const data = await existing.json();
+      sha = data.sha;
+    }
+  } catch {}
+
+  const body = {
+    message: `Update trends data - ${new Date().toLocaleString("en-US", { month: "long", year: "numeric" })}`,
+    content: btoa(unescape(encodeURIComponent(jsonString))),
+  };
+  if (sha) body.sha = sha;
+
+  const res = await fetch(apiUrl, {
+    method: "PUT",
+    headers: {
+      Authorization: `token ${token}`,
+      "Content-Type": "application/json",
+      "User-Agent": "ForcesAtPlay/1.0",
+    },
+    body: JSON.stringify(body),
+  });
+
+  if (!res.ok) {
+    const errText = await res.text();
+    throw new Error(`GitHub API error ${res.status}: ${errText}`);
+  }
+
+  console.log("  Written to GitHub as static file.");
+}
+
 export default async function handler(req) {
   console.log("Forces at Play: Monthly update starting...");
 
@@ -197,9 +237,8 @@ export default async function handler(req) {
       signals: validated,
     };
 
-    const store = getStore("forces-at-play");
-    await store.set("trends-data", JSON.stringify(output));
-    console.log("  Written to Netlify Blobs. Done!");
+    await writeToGitHub(JSON.stringify(output, null, 2));
+    console.log("  Done!");
 
     return new Response(JSON.stringify({ success: true, signals: validated.length }), {
       status: 200,
