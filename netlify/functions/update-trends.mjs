@@ -240,7 +240,8 @@ export default async function handler(req) {
   });
 }
 
-// Tell Netlify this is a scheduled function
+// Tell Netlify this is a scheduled + background function
 export const config = {
-  schedule: "@monthly", // Runs on the 1st of every month
+  schedule: "@monthly",
+  type: "background",
 };
