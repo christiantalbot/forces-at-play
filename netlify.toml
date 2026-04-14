@@ -4,8 +4,9 @@
 
 [functions]
   node_bundler = "esbuild"
+  external_node_modules = ["@netlify/blobs"]
 
-[functions."update-trends"]
+[functions."update-trends-background"]
   schedule = "@monthly"
 
 [[headers]]
