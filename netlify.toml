@@ -4,19 +4,12 @@
 
 [functions]
   node_bundler = "esbuild"
-  external_node_modules = ["@netlify/blobs"]
 
 [functions."update-trends-background"]
   schedule = "@monthly"
 
 [[headers]]
-  for = "/.netlify/functions/trends-data"
+  for = "/trends-data.json"
   [headers.values]
     Access-Control-Allow-Origin = "*"
-    Access-Control-Allow-Methods = "GET, OPTIONS"
     Cache-Control = "public, max-age=3600"
-
-[[redirects]]
-  from = "/api/trends"
-  to = "/.netlify/functions/trends-data"
-  status = 200
