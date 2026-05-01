@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generated": "2026-04-15T02:19:32.666Z",
-    "month": "April 2026",
-    "signalCount": 69,
+    "generated": "2026-05-01T00:05:58.322Z",
+    "month": "May 2026",
+    "signalCount": 66,
     "sourceCount": 18,
     "forces": [
       {
@@ -68,8 +68,8 @@
   },
   "signals": [
     {
-      "f": "ai",
-      "t": "Elementary Students Learn Computational Thinking in the Age of AI",
+      "f": "curric",
+      "t": "Teachers Limiting Screen Time While Embracing AI-Enhanced Learning",
       "r": [
         "North America"
       ],
@@ -78,174 +78,145 @@
         "Private"
       ],
       "src": "Edutopia",
-      "d": "Schools are integrating age-appropriate computational thinking curricula to prepare young learners for an AI-driven future."
+      "d": "Educators balance digital tool usage with intentional screen time reduction while integrating AI to make learning more meaningful."
     },
     {
-      "f": "ai",
-      "t": "Teachers Limiting Screen Time Despite AI Classroom Integration",
+      "f": "curric",
+      "t": "Handwritten Notes Return as Brain-Boosting Learning Strategy",
       "r": [
         "North America",
-        "Europe"
+        "Europe",
+        "East Asia"
       ],
       "s": [
-        "Public",
         "Private"
       ],
       "src": "Edutopia",
-      "d": "Educators are strategically reducing screen exposure while maintaining essential technology skills and AI literacy."
+      "d": "Schools rediscover handwritten note-taking for improved information processing and retention across subjects."
     },
     {
-      "f": "ai",
-      "t": "Education Department Prioritizes AI in Federal Grant Awards",
-      "r": [
-        "North America"
-      ],
-      "s": [
-        "Public"
-      ],
-      "src": "K-12 Dive",
-      "d": "Federal education funding increasingly favors districts demonstrating innovative AI implementation and digital literacy programs."
-    },
-    {
-      "f": "ai",
-      "t": "Generation Z Growing More Negative Toward AI Integration",
-      "r": [
-        "North America",
-        "Europe",
-        "East Asia"
-      ],
-      "s": [
-        "Public",
-        "Private"
-      ],
-      "src": "K-12 Dive",
-      "d": "Student resistance to AI tools is increasing, forcing educators to reconsider implementation strategies and student buy-in approaches."
-    },
-    {
-      "f": "ai",
-      "t": "AI as Productivity Tool Makes Learning More Meaningful",
-      "r": [
-        "North America",
-        "Europe",
-        "East Asia"
-      ],
-      "s": [
-        "Public",
-        "Private"
-      ],
-      "src": "EdSurge",
-      "d": "Schools discover AI's potential to handle routine tasks, allowing students to focus on higher-order thinking and creative work."
-    },
-    {
-      "f": "ai",
-      "t": "Teachers Still Questioning Appropriate AI Use Cases",
-      "r": [
-        "North America",
-        "Europe",
-        "Oceania"
-      ],
-      "s": [
-        "Public",
-        "Private"
-      ],
-      "src": "EdSurge",
-      "d": "Educators continue seeking clarity on when and how to effectively integrate AI tools into classroom instruction."
-    },
-    {
-      "f": "ai",
-      "t": "NAIS Launches Updated AI Online Courses for Educators",
-      "r": [
-        "North America",
-        "Europe",
-        "East Asia"
-      ],
-      "s": [
-        "Private"
-      ],
-      "src": "NAIS",
-      "d": "Private schools prioritize professional development in AI literacy to maintain competitive advantage and prepare students effectively."
-    },
-    {
-      "f": "ai",
-      "t": "White House Releases National AI Policy Framework for Schools",
-      "r": [
-        "North America"
-      ],
-      "s": [
-        "Public",
-        "Private"
-      ],
-      "src": "Whiteboard Advisors",
-      "d": "Federal government establishes comprehensive guidelines for AI implementation in educational settings nationwide."
-    },
-    {
-      "f": "enroll",
-      "t": "Districts Face Layoffs and Hiring Freezes Amid Declining Enrollment",
-      "r": [
-        "North America"
-      ],
-      "s": [
-        "Public"
-      ],
-      "src": "K-12 Dive",
-      "d": "Budget constraints from reduced student numbers force districts to cut staff and freeze new hiring across multiple states."
-    },
-    {
-      "f": "enroll",
-      "t": "Expanding Pre-K Access Could Stabilize K-12 Enrollment Numbers",
-      "r": [
-        "North America"
-      ],
-      "s": [
-        "Public"
-      ],
-      "src": "K-12 Dive",
-      "d": "Early childhood investment emerges as strategy to build enrollment pipeline and reduce future demographic challenges."
-    },
-    {
-      "f": "enroll",
-      "t": "Delaying Kindergarten Shows Few Long-term Benefits",
+      "f": "curric",
+      "t": "Interdisciplinary Learning Through Arts-Science Integration",
       "r": [
         "North America",
         "Europe"
       ],
       "s": [
+        "Private"
+      ],
+      "src": "Edutopia",
+      "d": "Music and art programs combine with STEM subjects to create deeper, more engaging learning experiences."
+    },
+    {
+      "f": "curric",
+      "t": "Microschools Reshape Educational Architecture Beyond Industrial Model",
+      "r": [
+        "North America"
+      ],
+      "s": [
+        "Private"
+      ],
+      "src": "Getting Smart",
+      "d": "Alternative education models emphasize personalized, community-based learning environments serving unique student needs."
+    },
+    {
+      "f": "curric",
+      "t": "Improv Theatre Builds Collaborative Skills in Classrooms",
+      "r": [
+        "North America",
+        "Europe"
+      ],
+      "s": [
+        "Private"
+      ],
+      "src": "Edutopia",
+      "d": "Teachers use improvisational activities to develop group work abilities and creative problem-solving skills."
+    },
+    {
+      "f": "ai",
+      "t": "AI Tools Generate Actionable Insights for Multilingual Learner Progress",
+      "r": [
+        "North America",
+        "Latin America"
+      ],
+      "s": [
+        "Private"
+      ],
+      "src": "AMISA",
+      "d": "New AI-powered platforms track growth and readiness indicators specifically for students learning in multiple languages."
+    },
+    {
+      "f": "ai",
+      "t": "Educators Question Which AI Use Cases Actually Benefit Students",
+      "r": [
+        "North America",
+        "Europe",
+        "East Asia"
+      ],
+      "s": [
+        "Private"
+      ],
+      "src": "EdSurge",
+      "d": "Teachers continue seeking practical AI applications that meaningfully enhance rather than replace traditional instruction methods."
+    },
+    {
+      "f": "ai",
+      "t": "Primary Schools Develop Digital Literacy Through Age-Appropriate AI",
+      "r": [
+        "Europe",
+        "East Asia",
+        "Oceania"
+      ],
+      "s": [
+        "Private"
+      ],
+      "src": "ECIS",
+      "d": "International schools introduce young learners to AI concepts while building foundational digital citizenship skills."
+    },
+    {
+      "f": "ai",
+      "t": "Programming Education Evolves from Basic Code to AI Readiness",
+      "r": [
+        "North America",
+        "Europe",
+        "East Asia"
+      ],
+      "s": [
+        "Private"
+      ],
+      "src": "EdSurge",
+      "d": "Computer science curricula shift focus from simple coding to preparing students for AI-integrated future careers."
+    },
+    {
+      "f": "teach",
+      "t": "Non-Classroom Education Roles Experience Fastest Job Growth",
+      "r": [
+        "North America"
+      ],
+      "s": [
         "Public",
         "Private"
       ],
       "src": "EdSurge",
-      "d": "Research challenges 'redshirting' practices, suggesting earlier school entry may be more beneficial than previously thought."
+      "d": "Instructional coaching, data analysis, and student support positions expand more rapidly than traditional teaching roles."
     },
     {
-      "f": "fund",
-      "t": "Districts Save $250K Through Strategic 'Vibe Coding' of Ed Tech",
-      "r": [
-        "North America"
-      ],
-      "s": [
-        "Public"
-      ],
-      "src": "K-12 Dive",
-      "d": "Schools use systematic evaluation methods to eliminate redundant technology tools and optimize education budgets."
-    },
-    {
-      "f": "fund",
-      "t": "Early Childhood Investment Gaps Drive Up K-12 Costs",
+      "f": "teach",
+      "t": "Teacher Professional Development Emphasizes Innovative Pedagogy Adoption",
       "r": [
         "North America",
         "Europe",
-        "Oceania"
+        "East Asia"
       ],
       "s": [
-        "Public",
         "Private"
       ],
-      "src": "K-12 Dive",
-      "d": "Insufficient early learning investment creates expensive remedial needs throughout elementary and secondary education."
+      "src": "Edutopia",
+      "d": "Schools invest in helping educators implement learner-centered, evidence-based teaching practices effectively."
     },
     {
-      "f": "fund",
-      "t": "After-School Program Sustainability Concerns Rising Among Providers",
+      "f": "teach",
+      "t": "Perfectionist Teaching Culture Shifts Toward Growth-Minded Instruction",
       "r": [
         "North America"
       ],
@@ -253,64 +224,206 @@
         "Public",
         "Private"
       ],
-      "src": "K-12 Dive",
-      "d": "Extended learning programs face funding challenges as federal pandemic relief expires and local budgets tighten."
+      "src": "EdSurge",
+      "d": "Educator training programs emphasize learning from mistakes and iterative improvement over flawless performance."
     },
     {
-      "f": "fund",
-      "t": "Trump Proposes $76 Billion Budget for Education Department",
+      "f": "teach",
+      "t": "Faculty Demand Increased Institutional Support for Professional Growth",
+      "r": [
+        "North America"
+      ],
+      "s": [
+        "Public",
+        "Private"
+      ],
+      "src": "Whiteboard Advisors",
+      "d": "Higher education professionals seek better resources and backing from administrators for career development."
+    },
+    {
+      "f": "well",
+      "t": "Schools Proactively Address Student Task Abandonment and Perseverance",
+      "r": [
+        "North America",
+        "Europe"
+      ],
+      "s": [
+        "Private"
+      ],
+      "src": "Edutopia",
+      "d": "Educators develop strategies to help students persist through challenges rather than giving up on difficult assignments."
+    },
+    {
+      "f": "well",
+      "t": "Enhanced Campus Safety Through AI-Powered Student Supervision",
+      "r": [
+        "North America",
+        "Latin America"
+      ],
+      "s": [
+        "Private"
+      ],
+      "src": "AMISA",
+      "d": "International schools implement technology-assisted monitoring systems for comprehensive student wellbeing during all activities."
+    },
+    {
+      "f": "well",
+      "t": "Social Media Addiction Lawsuits Continue Impacting School Policies",
+      "r": [
+        "North America"
+      ],
+      "s": [
+        "Public",
+        "Private"
+      ],
+      "src": "EdSurge",
+      "d": "Ongoing legal cases influence how schools address technology use and student mental health concerns."
+    },
+    {
+      "f": "well",
+      "t": "Cell Phone Bans Outpace Strategic Implementation Planning",
+      "r": [
+        "North America"
+      ],
+      "s": [
+        "Public",
+        "Private"
+      ],
+      "src": "Whiteboard Advisors",
+      "d": "Schools rush to implement device restrictions without comprehensive strategies for enforcement and alternatives."
+    },
+    {
+      "f": "choice",
+      "t": "Public Microschools Expand Alternative Education Options",
       "r": [
         "North America"
       ],
       "s": [
         "Public"
       ],
-      "src": "Whiteboard Advisors",
-      "d": "Federal education spending faces potential changes under new administration priorities and budget proposals."
+      "src": "Getting Smart",
+      "d": "Districts explore small-scale, personalized learning environments as viable alternatives to traditional public schools."
     },
     {
-      "f": "fund",
-      "t": "Kentucky Adopts Education Freedom Tax Credits Without Governor Support",
+      "f": "choice",
+      "t": "Private School Market Responds to Demand for Specialized Learning",
       "r": [
-        "North America"
+        "North America",
+        "Europe",
+        "East Asia"
       ],
       "s": [
         "Private"
       ],
-      "src": "Whiteboard Advisors",
-      "d": "State legislature advances school choice funding despite executive opposition, expanding private education options."
+      "src": "Getting Smart",
+      "d": "Independent schools develop unique programs targeting specific student populations and learning styles."
     },
     {
-      "f": "fund",
-      "t": "World Bank Partners with International Finance Facility for Education",
+      "f": "choice",
+      "t": "International Schools Strengthen Community-Centered Values",
+      "r": [
+        "Europe",
+        "East Asia",
+        "MENA",
+        "Oceania"
+      ],
+      "s": [
+        "Private"
+      ],
+      "src": "ECIS",
+      "d": "Global education providers emphasize collaboration, inclusion, and shared values as competitive differentiators."
+    },
+    {
+      "f": "enroll",
+      "t": "More 4-Year-Olds Enter Publicly Funded Preschool Programs Despite Quality Concerns",
+      "r": [
+        "North America"
+      ],
+      "s": [
+        "Public"
+      ],
+      "src": "EdSurge",
+      "d": "California leads expansion of early childhood education access while states address program effectiveness issues."
+    },
+    {
+      "f": "enroll",
+      "t": "Kindergarten Delay Shows Minimal Long-Term Academic Benefits",
+      "r": [
+        "North America"
+      ],
+      "s": [
+        "Public",
+        "Private"
+      ],
+      "src": "EdSurge",
+      "d": "Research challenges the practice of holding children back from kindergarten for developmental advantages."
+    },
+    {
+      "f": "enroll",
+      "t": "Refugee Education Programs Build Skills and Career Pathways",
       "r": [
         "Sub-Saharan Africa",
-        "Latin America",
+        "MENA"
+      ],
+      "s": [
+        "Private"
+      ],
+      "src": "World Bank Education",
+      "d": "Ethiopia pilots integrated programs connecting displaced populations with host communities through education and job training."
+    },
+    {
+      "f": "enroll",
+      "t": "Sub-Saharan Africa Advances Foundational Skills Through Community Engagement",
+      "r": [
+        "Sub-Saharan Africa"
+      ],
+      "s": [
+        "Private"
+      ],
+      "src": "World Bank Education",
+      "d": "Local communities actively support children's basic learning acquisition across the continent."
+    },
+    {
+      "f": "fund",
+      "t": "Trump Administration Proposes $76 Billion Education Department Budget",
+      "r": [
+        "North America"
+      ],
+      "s": [
+        "Public"
+      ],
+      "src": "Whiteboard Advisors",
+      "d": "Federal education spending priorities shift under new political leadership with significant funding implications."
+    },
+    {
+      "f": "fund",
+      "t": "Treasury Takes Over Defaulted Student Loan Collections",
+      "r": [
+        "North America"
+      ],
+      "s": [
+        "Public"
+      ],
+      "src": "Whiteboard Advisors",
+      "d": "Federal government restructures higher education debt recovery processes through departmental reassignment."
+    },
+    {
+      "f": "fund",
+      "t": "International Finance Facility Partners with World Bank for Education Investment",
+      "r": [
+        "Sub-Saharan Africa",
+        "MENA",
         "NESA"
       ],
       "s": [
         "Private"
       ],
       "src": "World Bank Education",
-      "d": "Global financial mechanisms develop innovative funding solutions for education access in developing regions."
+      "d": "Smart financing mechanisms aim to create more prosperous educational futures in developing regions."
     },
     {
-      "f": "teach",
-      "t": "Education Jobs Growing Fastest in Non-Classroom Roles",
-      "r": [
-        "North America",
-        "Europe"
-      ],
-      "s": [
-        "Public",
-        "Private"
-      ],
-      "src": "EdSurge",
-      "d": "Support positions like instructional coaching, technology integration, and student services expand faster than traditional teaching."
-    },
-    {
-      "f": "teach",
-      "t": "NYC Schools Invest in Coaching for Non-Classroom Staff",
+      "f": "fund",
+      "t": "States Increase Preschool Investment Despite Ongoing Quality Challenges",
       "r": [
         "North America"
       ],
@@ -318,493 +431,224 @@
         "Public"
       ],
       "src": "EdSurge",
-      "d": "District recognizes importance of professional development for support staff who directly impact student outcomes."
+      "d": "Public funding for early childhood education grows while program effectiveness remains under scrutiny."
     },
     {
-      "f": "teach",
-      "t": "Teacher Mental Wellbeing Programs Expand Beyond Traditional EAPs",
+      "f": "gov",
+      "t": "DOJ Extends Website Accessibility Compliance Deadline for Schools",
+      "r": [
+        "North America"
+      ],
+      "s": [
+        "Public",
+        "Private"
+      ],
+      "src": "EdSurge",
+      "d": "Educational institutions receive additional time to meet ADA digital accessibility requirements amid implementation challenges."
+    },
+    {
+      "f": "gov",
+      "t": "Federal Negotiated Rulemaking Addresses Higher Education Accreditation Reform",
+      "r": [
+        "North America"
+      ],
+      "s": [
+        "Public",
+        "Private"
+      ],
+      "src": "Whiteboard Advisors",
+      "d": "Education Department convenes stakeholders to revise accreditation standards and oversight mechanisms."
+    },
+    {
+      "f": "gov",
+      "t": "White House Releases National AI Policy Framework for Congressional Action",
+      "r": [
+        "North America"
+      ],
+      "s": [
+        "Public",
+        "Private"
+      ],
+      "src": "Whiteboard Advisors",
+      "d": "Federal artificial intelligence guidelines provide direction for educational technology integration and oversight."
+    },
+    {
+      "f": "gov",
+      "t": "State Education Leaders Promise More Than They Deliver on Reform",
+      "r": [
+        "North America"
+      ],
+      "s": [
+        "Public"
+      ],
+      "src": "Whiteboard Advisors",
+      "d": "Governor education pledges face implementation challenges as political promises encounter practical constraints."
+    },
+    {
+      "f": "dei",
+      "t": "Data-Driven Approaches Identify More Diverse Gifted Students",
+      "r": [
+        "North America"
+      ],
+      "s": [
+        "Public",
+        "Private"
+      ],
+      "src": "EdSurge",
+      "d": "Districts use comprehensive assessment tools to reduce bias and expand access to gifted education programs."
+    },
+    {
+      "f": "dei",
+      "t": "Surveillance Cameras Raise Concerns in Special Education Settings",
+      "r": [
+        "North America"
+      ],
+      "s": [
+        "Public",
+        "Private"
+      ],
+      "src": "EdSurge",
+      "d": "Advocates worry about privacy and dignity as states push for video monitoring in special needs classrooms."
+    },
+    {
+      "f": "dei",
+      "t": "Schools Focus on Making Education More Human-Centered",
       "r": [
         "North America",
-        "Europe",
-        "East Asia"
+        "Europe"
       ],
       "s": [
         "Private"
       ],
-      "src": "AMISA",
-      "d": "International schools implement comprehensive mental health support including tele-counseling and preventive care benefits."
+      "src": "EdSurge",
+      "d": "Educators emphasize relationship-building and personalized connections to counter dehumanizing institutional trends."
     },
     {
-      "f": "teach",
-      "t": "NESA Focuses on Transformative Educator Professional Growth",
+      "f": "dei",
+      "t": "Universal Design for Learning Transforms School Inclusion Practices",
       "r": [
+        "Europe",
+        "East Asia",
+        "Oceania"
+      ],
+      "s": [
+        "Private"
+      ],
+      "src": "ECIS",
+      "d": "International schools adopt UDL frameworks to create more accessible and inclusive learning environments."
+    },
+    {
+      "f": "dei",
+      "t": "Disability Education Agenda Remains Unfinished After Decade of Progress",
+      "r": [
+        "Sub-Saharan Africa",
+        "MENA",
+        "NESA"
+      ],
+      "s": [
+        "Private"
+      ],
+      "src": "World Bank Education",
+      "d": "Global initiatives continue addressing barriers to inclusive education for students with disabilities."
+    },
+    {
+      "f": "privacy",
+      "t": "Schools Struggle with Digital Accessibility Implementation Deadlines",
+      "r": [
+        "North America"
+      ],
+      "s": [
+        "Public",
+        "Private"
+      ],
+      "src": "EdSurge",
+      "d": "Educational institutions face challenges meeting federal requirements for website and digital resource accessibility."
+    },
+    {
+      "f": "privacy",
+      "t": "Child Protection Workshops Address Online Safety and Peer Abuse",
+      "r": [
+        "Europe",
+        "East Asia",
+        "MENA"
+      ],
+      "s": [
+        "Private"
+      ],
+      "src": "ECIS",
+      "d": "International schools prioritize training staff on digital safety and child-on-child harmful behaviors."
+    },
+    {
+      "f": "privacy",
+      "t": "EdTech Stack Rationalization Reduces Tool Overload",
+      "r": [
+        "North America"
+      ],
+      "s": [
+        "Public",
+        "Private"
+      ],
+      "src": "EdSurge",
+      "d": "Districts streamline technology platforms to improve effectiveness and reduce complexity for teachers and students."
+    },
+    {
+      "f": "climate",
+      "t": "Infrastructure Challenges Drive Educational Innovation in Developing Nations",
+      "r": [
+        "Sub-Saharan Africa",
+        "NESA"
+      ],
+      "s": [
+        "Private"
+      ],
+      "src": "Analysis",
+      "d": "Schools adapt curriculum and delivery methods to overcome physical infrastructure limitations through creative solutions."
+    },
+    {
+      "f": "climate",
+      "t": "Large Class Size Reality Sparks Innovative Teaching Solutions",
+      "r": [
+        "Sub-Saharan Africa",
         "NESA",
-        "East Asia"
+        "Latin America"
+      ],
+      "s": [
+        "Private"
+      ],
+      "src": "World Bank Education",
+      "d": "Educators develop effective strategies for managing oversized classes while maintaining learning quality."
+    },
+    {
+      "f": "global",
+      "t": "International Educator Professional Learning Programs Expand Globally",
+      "r": [
+        "Europe",
+        "East Asia",
+        "MENA",
+        "Oceania"
       ],
       "s": [
         "Private"
       ],
       "src": "NESA Center",
-      "d": "Regional education organizations prioritize continuous learning and collaboration among international school educators."
+      "d": "Cross-border professional development initiatives connect educators worldwide for transformative growth opportunities."
     },
     {
-      "f": "teach",
-      "t": "Faculty Want More Institutional Support for Career Development",
+      "f": "global",
+      "t": "Medical Education Builds Healthcare Workforce in Emerging Economies",
       "r": [
-        "North America",
-        "Europe"
-      ],
-      "s": [
-        "Private"
-      ],
-      "src": "Whiteboard Advisors",
-      "d": "Higher education trends influence K-12 expectations for professional development and institutional backing."
-    },
-    {
-      "f": "choice",
-      "t": "Microschools Movement Gains Momentum with Public Sector Interest",
-      "r": [
-        "North America",
-        "Oceania"
-      ],
-      "s": [
-        "Public",
-        "Private"
-      ],
-      "src": "Getting Smart",
-      "d": "Small-scale educational models attract both private founders and public district partnerships as enrollment alternative."
-    },
-    {
-      "f": "choice",
-      "t": "Districts Debate Implementation of 4-Day School Weeks",
-      "r": [
-        "North America"
-      ],
-      "s": [
-        "Public"
-      ],
-      "src": "K-12 Dive",
-      "d": "Rural and urban districts explore compressed schedules to address teacher retention and operational costs."
-    },
-    {
-      "f": "choice",
-      "t": "ECIS Leadership Conference Emphasizes Love-Based School Leadership",
-      "r": [
-        "Europe",
-        "MENA",
-        "NESA"
-      ],
-      "s": [
-        "Private"
-      ],
-      "src": "ECIS",
-      "d": "International schools focus on values-driven leadership approaches to differentiate from traditional education models."
-    },
-    {
-      "f": "gov",
-      "t": "Appeals Court Upholds Parts of Iowa's Anti-LGBTQ Education Law",
-      "r": [
-        "North America"
-      ],
-      "s": [
-        "Public"
-      ],
-      "src": "K-12 Dive",
-      "d": "Legal challenges to restrictive state policies continue shaping classroom practices and student support services."
-    },
-    {
-      "f": "gov",
-      "t": "Education Department Releases New Program Priorities",
-      "r": [
-        "North America"
-      ],
-      "s": [
-        "Public"
-      ],
-      "src": "K-12 Dive",
-      "d": "Federal agencies adjust funding criteria and programmatic focus areas under evolving policy landscapes."
-    },
-    {
-      "f": "gov",
-      "t": "Labor Department Announces Elementary-Secondary Education Partnerships",
-      "r": [
-        "North America"
-      ],
-      "s": [
-        "Public"
-      ],
-      "src": "K-12 Dive",
-      "d": "Cross-agency collaboration creates new pathways connecting K-12 education with workforce development initiatives."
-    },
-    {
-      "f": "gov",
-      "t": "Education Department Plans Accreditation Reform Through Negotiated Rulemaking",
-      "r": [
-        "North America"
-      ],
-      "s": [
-        "Public",
-        "Private"
-      ],
-      "src": "Whiteboard Advisors",
-      "d": "Federal oversight of educational quality standards faces modernization to address changing delivery models."
-    },
-    {
-      "f": "gov",
-      "t": "States Sue to Block Expanded College Admissions Data Collection",
-      "r": [
-        "North America"
-      ],
-      "s": [
-        "Public",
-        "Private"
-      ],
-      "src": "Whiteboard Advisors",
-      "d": "Privacy concerns drive legal challenges to federal education data gathering and reporting requirements."
-    },
-    {
-      "f": "well",
-      "t": "National Survey Identifies Barriers to Family Well-Being",
-      "r": [
-        "North America"
-      ],
-      "s": [
-        "Public",
-        "Private"
-      ],
-      "src": "EdSurge",
-      "d": "Research reveals systemic challenges affecting student success through family stability and community support."
-    },
-    {
-      "f": "well",
-      "t": "Social Media Addiction Cases Continue in Legal System",
-      "r": [
-        "North America",
-        "Europe"
-      ],
-      "s": [
-        "Public",
-        "Private"
-      ],
-      "src": "EdSurge",
-      "d": "Schools and families pursue legal remedies against technology companies for youth mental health impacts."
-    },
-    {
-      "f": "well",
-      "t": "Advocates Raise Concerns About Cameras in Special Education Classrooms",
-      "r": [
-        "North America"
-      ],
-      "s": [
-        "Public"
-      ],
-      "src": "EdSurge",
-      "d": "Surveillance technology adoption balances student safety monitoring with privacy and dignity considerations."
-    },
-    {
-      "f": "well",
-      "t": "Schools Work to Restore Wonder in Screen-Filled Learning Environment",
-      "r": [
-        "North America",
-        "Europe",
-        "East Asia"
-      ],
-      "s": [
-        "Public",
-        "Private"
-      ],
-      "src": "EdSurge",
-      "d": "Educators seek strategies to maintain creativity and imagination despite ubiquitous digital technology presence."
-    },
-    {
-      "f": "well",
-      "t": "Middle School Brain Breaks Foster Student Connection",
-      "r": [
-        "North America",
-        "Europe",
-        "Oceania"
-      ],
-      "s": [
-        "Public",
-        "Private"
-      ],
-      "src": "Edutopia",
-      "d": "Intentional social-emotional learning activities address adolescent developmental needs and classroom community building."
-    },
-    {
-      "f": "curric",
-      "t": "'Halftime Ticket' Method Helps Gauge Student Understanding",
-      "r": [
-        "North America",
-        "Europe"
-      ],
-      "s": [
-        "Public",
-        "Private"
-      ],
-      "src": "Edutopia",
-      "d": "Formative assessment strategies provide real-time feedback loops to adjust instruction based on comprehension levels."
-    },
-    {
-      "f": "curric",
-      "t": "Student-Created Stop-Motion Movies Explore Mathematical Concepts",
-      "r": [
-        "North America",
-        "Europe",
-        "East Asia"
-      ],
-      "s": [
-        "Public",
-        "Private"
-      ],
-      "src": "Edutopia",
-      "d": "Creative multimedia projects integrate arts with STEM learning to deepen mathematical understanding and engagement."
-    },
-    {
-      "f": "curric",
-      "t": "Scaffolding Approaches Support Complex Reading Passage Comprehension",
-      "r": [
-        "North America",
-        "Europe",
-        "Oceania"
-      ],
-      "s": [
-        "Public",
-        "Private"
-      ],
-      "src": "Edutopia",
-      "d": "Structured reading instruction helps students progressively build skills for tackling challenging textual materials."
-    },
-    {
-      "f": "curric",
-      "t": "Learning Objectives Optimization Improves Student Outcomes",
-      "r": [
-        "North America",
-        "Europe"
-      ],
-      "s": [
-        "Public",
-        "Private"
-      ],
-      "src": "Edutopia",
-      "d": "Clear, measurable goals enhance both teaching effectiveness and student achievement across subject areas."
-    },
-    {
-      "f": "curric",
-      "t": "Third Horizon Learning Shifts Beyond Industrial Education Model",
-      "r": [
-        "North America",
-        "Europe",
-        "East Asia"
-      ],
-      "s": [
-        "Public",
-        "Private"
-      ],
-      "src": "Getting Smart",
-      "d": "Educational architecture evolves toward personalized, competency-based approaches replacing traditional factory models."
-    },
-    {
-      "f": "curric",
-      "t": "State-Level Guidance Supports Unbundled Learning Approaches",
-      "r": [
-        "North America"
-      ],
-      "s": [
-        "Public",
-        "Private"
-      ],
-      "src": "Getting Smart",
-      "d": "Policy frameworks enable flexible delivery models separating content, instruction, and assessment components."
-    },
-    {
-      "f": "curric",
-      "t": "ECIS UDL Workshop Series Advances Universal Design for Learning",
-      "r": [
-        "Europe",
-        "MENA",
         "NESA",
-        "East Asia"
-      ],
-      "s": [
-        "Private"
-      ],
-      "src": "ECIS",
-      "d": "International schools adopt inclusive design principles to meet diverse learner needs from curriculum inception."
-    },
-    {
-      "f": "privacy",
-      "t": "Cellphone Bans Outpace Supporting Implementation Strategies",
-      "r": [
-        "North America",
-        "Europe"
-      ],
-      "s": [
-        "Public",
-        "Private"
-      ],
-      "src": "Whiteboard Advisors",
-      "d": "Policy decisions on mobile device restrictions lack comprehensive planning for enforcement and educational alternatives."
-    },
-    {
-      "f": "privacy",
-      "t": "Screens in Schools Debate Intensifies Among Educators",
-      "r": [
-        "North America",
-        "Europe",
-        "East Asia"
-      ],
-      "s": [
-        "Public",
-        "Private"
-      ],
-      "src": "EdSurge",
-      "d": "Screen time concerns drive policy discussions about appropriate technology use and student digital wellness."
-    },
-    {
-      "f": "privacy",
-      "t": "Screen-Free Schools Movement Gains Legislative Support",
-      "r": [
-        "North America",
-        "Europe"
-      ],
-      "s": [
-        "Public",
-        "Private"
-      ],
-      "src": "EdSurge",
-      "d": "State lawmakers consider mandating technology-free environments to address youth mental health and learning concerns."
-    },
-    {
-      "f": "privacy",
-      "t": "Districts Rethink EdTech Stacks Due to Tool Overload",
-      "r": [
-        "North America",
-        "Europe",
-        "East Asia"
-      ],
-      "s": [
-        "Public",
-        "Private"
-      ],
-      "src": "EdSurge",
-      "d": "Technology fatigue leads schools to consolidate platforms and focus on proven, high-impact digital tools."
-    },
-    {
-      "f": "climate",
-      "t": "ECIS Promotes Sustainability and Regenerative Practices",
-      "r": [
-        "Europe",
-        "MENA",
         "Sub-Saharan Africa"
       ],
       "s": [
         "Private"
       ],
-      "src": "ECIS",
-      "d": "International schools integrate environmental education and sustainable operations as core institutional values."
-    },
-    {
-      "f": "climate",
-      "t": "Nature-Based Learning Initiatives Expand in Apple Programs",
-      "r": [
-        "North America",
-        "Europe",
-        "Oceania"
-      ],
-      "s": [
-        "Private"
-      ],
-      "src": "ECIS",
-      "d": "Outdoor education and environmental connection become central to health and wellness curricula."
-    },
-    {
-      "f": "dei",
-      "t": "Love-Based Leadership Approach Gains Traction in International Schools",
-      "r": [
-        "Europe",
-        "MENA",
-        "NESA",
-        "East Asia"
-      ],
-      "s": [
-        "Private"
-      ],
-      "src": "ECIS",
-      "d": "Educational leaders embrace emotional intelligence and relationship-centered management philosophies."
-    },
-    {
-      "f": "dei",
-      "t": "Multilingual Education Programs Emphasize Collaboration by Design",
-      "r": [
-        "Europe",
-        "MENA",
-        "NESA",
-        "East Asia"
-      ],
-      "s": [
-        "Private"
-      ],
-      "src": "ECIS",
-      "d": "International schools develop systematic approaches to support multiple languages and cultural identities."
-    },
-    {
-      "f": "dei",
-      "t": "UNESCO Advances Education in African Contexts",
-      "r": [
-        "Sub-Saharan Africa"
-      ],
-      "s": [
-        "Private"
-      ],
-      "src": "UNESCO Education",
-      "d": "International organizations prioritize culturally responsive and locally relevant educational development initiatives."
-    },
-    {
-      "f": "dei",
-      "t": "Specialized Programs Address Unique Student Population Needs",
-      "r": [
-        "North America",
-        "Europe",
-        "NESA"
-      ],
-      "s": [
-        "Private"
-      ],
-      "src": "Getting Smart",
-      "d": "Microschools and alternative models serve students with specific learning requirements or cultural backgrounds."
+      "src": "World Bank Education",
+      "d": "Georgia's medical education model demonstrates how strategic training programs create better jobs and healthcare systems."
     },
     {
       "f": "global",
-      "t": "AMISA Designs International School Strategy for Regional Growth",
-      "r": [
-        "MENA",
-        "Sub-Saharan Africa"
-      ],
-      "s": [
-        "Private"
-      ],
-      "src": "AMISA",
-      "d": "Regional education associations develop strategic frameworks to expand quality international education access."
-    },
-    {
-      "f": "global",
-      "t": "ECIS Brings Global Education Community Together",
-      "r": [
-        "Europe",
-        "MENA",
-        "NESA",
-        "East Asia"
-      ],
-      "s": [
-        "Private"
-      ],
-      "src": "ECIS",
-      "d": "International conferences and collaboration platforms strengthen connections among globally-minded educators."
-    },
-    {
-      "f": "global",
-      "t": "World Bank Supports Integrated STEM Pipeline Development in Tanzania",
+      "t": "STEM Pipeline Development Targets Inclusive Growth in East Africa",
       "r": [
         "Sub-Saharan Africa"
       ],
@@ -812,39 +656,11 @@
         "Private"
       ],
       "src": "World Bank Education",
-      "d": "International development focuses on building comprehensive science and technology education pathways."
+      "d": "Tanzania implements integrated approaches to build science, technology, engineering, and math capabilities for future workforce needs."
     },
     {
       "f": "global",
-      "t": "Ethiopia Builds Skills Pathways for Refugee and Host Communities",
-      "r": [
-        "Sub-Saharan Africa",
-        "MENA"
-      ],
-      "s": [
-        "Private"
-      ],
-      "src": "World Bank Education",
-      "d": "Education programs address displacement challenges through inclusive workforce development initiatives."
-    },
-    {
-      "f": "ai",
-      "t": "Cybersecurity Classrooms Co-Designed with Industry Employers",
-      "r": [
-        "North America",
-        "Europe",
-        "East Asia"
-      ],
-      "s": [
-        "Public",
-        "Private"
-      ],
-      "src": "EdSurge",
-      "d": "Career-focused programs integrate real-world partnerships to prepare students for high-demand technology roles."
-    },
-    {
-      "f": "fund",
-      "t": "Smart Financing Powers Prosperous Educational Futures",
+      "t": "Earn-and-Learn Programs Prepare Students for Future Workforce Demands",
       "r": [
         "Latin America",
         "Sub-Saharan Africa",
@@ -854,160 +670,277 @@
         "Private"
       ],
       "src": "World Bank Education",
-      "d": "Innovative funding mechanisms combine public and private resources to expand educational access globally."
+      "d": "Educational models combining work experience with academic learning address skills gaps and employment readiness."
+    },
+    {
+      "f": "curric",
+      "t": "Math Education Requires Decade-Long Strategic Focus",
+      "r": [
+        "North America"
+      ],
+      "s": [
+        "Public",
+        "Private"
+      ],
+      "src": "Whiteboard Advisors",
+      "d": "Education leaders call for sustained commitment to mathematics improvement beyond single-year initiatives."
+    },
+    {
+      "f": "curric",
+      "t": "Writing Instruction Balances High Standards with Achievable Expectations",
+      "r": [
+        "North America",
+        "Europe"
+      ],
+      "s": [
+        "Private"
+      ],
+      "src": "EdSurge",
+      "d": "Teachers develop strategies to maintain academic rigor while making writing tasks accessible to all students."
+    },
+    {
+      "f": "curric",
+      "t": "Adaptive Learning Addresses Educational Challenges in West Africa",
+      "r": [
+        "Sub-Saharan Africa"
+      ],
+      "s": [
+        "Private"
+      ],
+      "src": "World Bank Education",
+      "d": "Côte d'Ivoire implements personalized learning technologies to overcome systemic education obstacles."
+    },
+    {
+      "f": "well",
+      "t": "Early Childhood Development Measurement Improves in Fragile Contexts",
+      "r": [
+        "Sub-Saharan Africa",
+        "MENA"
+      ],
+      "s": [
+        "Private"
+      ],
+      "src": "World Bank Education",
+      "d": "International organizations develop better assessment tools for tracking young children's progress in crisis-affected areas."
+    },
+    {
+      "f": "teach",
+      "t": "Middle Leadership Training Revolutionizes School Management Practices",
+      "r": [
+        "Europe",
+        "East Asia",
+        "Oceania"
+      ],
+      "s": [
+        "Private"
+      ],
+      "src": "ECIS",
+      "d": "International schools invest in developing mid-level administrators who drive institutional change and teacher support."
+    },
+    {
+      "f": "teach",
+      "t": "Coaching and Leadership Skills Become Essential for Educators",
+      "r": [
+        "Europe",
+        "North America"
+      ],
+      "s": [
+        "Private"
+      ],
+      "src": "ECIS",
+      "d": "Professional development programs emphasize mentoring abilities and collaborative leadership among teaching staff."
+    },
+    {
+      "f": "ai",
+      "t": "Ethics and Risk Considerations Shape AI Integration in Education",
+      "r": [
+        "North America",
+        "Europe",
+        "East Asia"
+      ],
+      "s": [
+        "Private"
+      ],
+      "src": "Educators Notebook",
+      "d": "Academic institutions prioritize ethical frameworks and risk assessment when implementing artificial intelligence tools."
+    },
+    {
+      "f": "curric",
+      "t": "Project-Based Learning Gains Momentum Through Technology Integration",
+      "r": [
+        "Latin America",
+        "East Asia",
+        "Oceania"
+      ],
+      "s": [
+        "Private"
+      ],
+      "src": "Analysis",
+      "d": "Schools combine hands-on projects with digital tools to create more engaging and relevant learning experiences."
+    },
+    {
+      "f": "choice",
+      "t": "Educational Tourism Programs Connect Learning with Global Experiences",
+      "r": [
+        "Europe",
+        "East Asia",
+        "Latin America"
+      ],
+      "s": [
+        "Private"
+      ],
+      "src": "Analysis",
+      "d": "International schools develop travel-based curricula that combine academic learning with cultural immersion."
     },
     {
       "f": "enroll",
-      "t": "Community-Based Foundational Skills Programs Show Promise",
+      "t": "Demographic Shifts Drive Demand for Multilingual Education Programs",
       "r": [
-        "Sub-Saharan Africa",
+        "North America",
+        "Europe",
+        "Oceania"
+      ],
+      "s": [
+        "Private"
+      ],
+      "src": "Analysis",
+      "d": "Schools respond to changing student populations by expanding language learning and cultural competency offerings."
+    },
+    {
+      "f": "fund",
+      "t": "Private-Public Partnerships Expand Educational Access in Latin America",
+      "r": [
         "Latin America"
       ],
       "s": [
         "Private"
       ],
-      "src": "World Bank Education",
-      "d": "Local engagement strategies improve literacy and numeracy outcomes in underserved populations."
+      "src": "Analysis",
+      "d": "Governments collaborate with private institutions to increase educational opportunities while sharing funding responsibilities."
     },
     {
-      "f": "teach",
-      "t": "Georgia Uses Medical Education Model for Health Career Development",
+      "f": "gov",
+      "t": "Regional Education Frameworks Harmonize Standards Across Borders",
       "r": [
         "Europe",
-        "MENA"
+        "East Asia"
       ],
       "s": [
         "Private"
       ],
-      "src": "World Bank Education",
-      "d": "Cross-sector education approaches create pathways from K-12 through professional training."
+      "src": "Analysis",
+      "d": "International cooperation initiatives align curriculum standards and assessment practices for student mobility."
     },
     {
-      "f": "curric",
-      "t": "Adaptive Learning Addresses Education Challenges in Côte d'Ivoire",
+      "f": "dei",
+      "t": "Indigenous Knowledge Systems Integration Gains Recognition in Pacific Schools",
+      "r": [
+        "Oceania"
+      ],
+      "s": [
+        "Private"
+      ],
+      "src": "Analysis",
+      "d": "Educational institutions incorporate traditional knowledge and cultural practices alongside conventional academic subjects."
+    },
+    {
+      "f": "privacy",
+      "t": "Blockchain Technology Secures Student Credentials and Records",
+      "r": [
+        "East Asia",
+        "Europe",
+        "North America"
+      ],
+      "s": [
+        "Private"
+      ],
+      "src": "Analysis",
+      "d": "Schools implement distributed ledger systems to protect and verify academic achievements and student data."
+    },
+    {
+      "f": "climate",
+      "t": "Green School Movement Promotes Environmental Sustainability Education",
+      "r": [
+        "Europe",
+        "Oceania",
+        "Latin America"
+      ],
+      "s": [
+        "Private"
+      ],
+      "src": "Analysis",
+      "d": "Educational institutions integrate sustainability practices into campus operations and curriculum design."
+    },
+    {
+      "f": "global",
+      "t": "Virtual Exchange Programs Connect Classrooms Across Continents",
+      "r": [
+        "Sub-Saharan Africa",
+        "Latin America",
+        "MENA",
+        "NESA"
+      ],
+      "s": [
+        "Private"
+      ],
+      "src": "Analysis",
+      "d": "Technology enables international collaboration and cultural exchange without physical travel requirements."
+    },
+    {
+      "f": "well",
+      "t": "Mental Health Support Services Expand in International School Networks",
+      "r": [
+        "Europe",
+        "East Asia",
+        "MENA",
+        "Oceania"
+      ],
+      "s": [
+        "Private"
+      ],
+      "src": "Analysis",
+      "d": "Schools prioritize psychological wellbeing through comprehensive counseling programs and peer support systems."
+    },
+    {
+      "f": "fund",
+      "t": "Impact Investment Models Transform Education Financing in Africa",
       "r": [
         "Sub-Saharan Africa"
       ],
       "s": [
         "Private"
       ],
-      "src": "World Bank Education",
-      "d": "Technology-enabled personalization helps overcome resource constraints in developing education systems."
+      "src": "Analysis",
+      "d": "Innovative funding mechanisms link financial returns to measurable educational outcomes and social impact."
     },
     {
-      "f": "fund",
-      "t": "Low-Income Countries Debate Revenue Versus Cost-Cutting Strategies",
+      "f": "teach",
+      "t": "Teacher Exchange Programs Strengthen Global Education Networks",
       "r": [
-        "Sub-Saharan Africa",
-        "Latin America",
+        "Europe",
+        "East Asia",
+        "Oceania",
         "NESA"
       ],
       "s": [
         "Private"
       ],
-      "src": "World Bank Education",
-      "d": "Educational investment decisions balance resource mobilization with efficiency improvements for maximum impact."
-    },
-    {
-      "f": "well",
-      "t": "Early Childhood Development Measurement in Fragile Contexts",
-      "r": [
-        "Sub-Saharan Africa",
-        "MENA",
-        "Latin America"
-      ],
-      "s": [
-        "Private"
-      ],
-      "src": "World Bank Education",
-      "d": "Assessment tools adapt to challenging environments to ensure vulnerable children receive appropriate support."
-    },
-    {
-      "f": "teach",
-      "t": "Earn and Learn Programs Critical for Future Workforce Development",
-      "r": [
-        "North America",
-        "Europe",
-        "East Asia"
-      ],
-      "s": [
-        "Public",
-        "Private"
-      ],
-      "src": "World Bank Education",
-      "d": "Integrated education-employment models prepare students while addressing immediate economic needs."
-    },
-    {
-      "f": "choice",
-      "t": "Public Microschool Playbooks Guide Implementation",
-      "r": [
-        "North America",
-        "Oceania"
-      ],
-      "s": [
-        "Public"
-      ],
-      "src": "Getting Smart",
-      "d": "Districts develop frameworks for small-scale learning environments within traditional public systems."
+      "src": "Analysis",
+      "d": "International educator mobility programs share best practices and build cross-cultural teaching capabilities."
     },
     {
       "f": "curric",
-      "t": "New Credentialing Systems Expand Access and Value",
+      "t": "Maker Spaces and Fab Labs Revolutionize Hands-On Learning",
       "r": [
         "North America",
         "Europe",
         "East Asia"
       ],
       "s": [
-        "Public",
         "Private"
       ],
-      "src": "Getting Smart",
-      "d": "Alternative certification and skill recognition systems complement traditional diploma pathways."
-    },
-    {
-      "f": "well",
-      "t": "Research Shows Mentoring Programs Spur Student Success",
-      "r": [
-        "North America",
-        "Europe"
-      ],
-      "s": [
-        "Public",
-        "Private"
-      ],
-      "src": "K-12 Dive",
-      "d": "Structured adult-student relationships demonstrate measurable impacts on academic and social outcomes."
-    },
-    {
-      "f": "ai",
-      "t": "'Hello World' to AI: Skills for Future Student Preparation",
-      "r": [
-        "North America",
-        "Europe",
-        "East Asia"
-      ],
-      "s": [
-        "Public",
-        "Private"
-      ],
-      "src": "EdSurge",
-      "d": "Computer science education evolves to include AI literacy alongside foundational programming concepts."
-    },
-    {
-      "f": "curric",
-      "t": "Real-World Career Pathways Extend Beyond Traditional Classrooms",
-      "r": [
-        "North America",
-        "Europe",
-        "Oceania"
-      ],
-      "s": [
-        "Public",
-        "Private"
-      ],
-      "src": "EdSurge",
-      "d": "Districts partner with employers and community organizations to create authentic learning experiences."
+      "src": "Analysis",
+      "d": "Schools invest in digital fabrication tools and creative spaces to support engineering and design thinking education."
     }
   ]
 }
